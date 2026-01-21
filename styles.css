@@ -1,9 +1,14 @@
-
 :root {
   --primary-color: #6366f1;
   --secondary-color: #4f46e5;
   --text-dark: #111827;
   --text-light: #f9fafb;
   --bg-color: #ffffff;
+  --font-family: Arial, sans-serif;
+  --font-size-base: 16px;
+  --line-height-base: 1.5;
+  --primary-font-color: var(--text-dark);
+  --secondary-font-color: var(--text-light);
+  --primary-bg-color: var(--primary-color);
+  --secondary-bg-color: var(--secondary-color);
 }
-
